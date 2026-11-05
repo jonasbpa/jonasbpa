@@ -8,11 +8,12 @@ Full-stack engineer from Curitiba, Brazil, working with **TypeScript, .NET, infr
 
 #### Stack
 
-**Backend:** NestJS · .NET · Node.js · Bun · Go · Socket.IO · BullMQ  
-**Frontend:** React · Vite · TanStack · React Native / Expo  
+**Backend:** NestJS · .NET · Node.js · Bun · Go · Python · Socket.IO · BullMQ · RabbitMQ  
+**Frontend:** React · Vite · TanStack · RTK Query · React Native / Expo  
 **Data:** PostgreSQL · MariaDB · MongoDB · Redis · Prisma · TypeORM  
-**Infra:** Docker · Kubernetes / k3s · GitHub Actions · AWS · Azure · Oracle Cloud · Cloudflare  
-**Messaging:** WhatsApp Cloud API · Baileys · Telegram · Facebook · Infobip
+**Infra:** Docker · Docker Swarm · Kubernetes / k3s · GitHub Actions · AWS · Azure · Oracle Cloud · Cloudflare  
+**Messaging:** WhatsApp Cloud API · Baileys · Whatsmeow · Telegram · Instagram · Facebook · Infobip  
+**Desktop and games:** C++ · C# · Dear ImGui
 
 #### Open source
 
