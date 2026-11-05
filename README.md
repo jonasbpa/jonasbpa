@@ -4,7 +4,7 @@ Full-stack engineer from Curitiba, Brazil, working with **TypeScript, .NET, infr
 
 - Building **ChatLabel** at **Hubcon**, a large-scale omnichannel messaging SaaS (.NET, React, Node.js, Go, k3s)
 - Working on **Facilitoo**, a household finance planner built on Open Finance
-- Open to **remote roles** and **freelance projects**: [jonasbpa.dev](https://jonasbpa.dev) · [jbpa28@gmail.com](mailto:jbpa28@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jonas-berchol-2648801a6/)
+- Open to **remote roles** and **freelance projects**: [jonasbpa.dev](https://jonasbpa.dev) · [jbpa28@gmail.com](mailto:jbpa28@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jonasbpa/)
 
 #### Stack
 
